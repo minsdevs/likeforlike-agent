@@ -1,0 +1,11 @@
+{
+  "verified_utc": "2026-11-01T02:24:47.735792+00:00",
+  "python_syntax": "PASS",
+  "private_paths_or_secret_patterns_found": [],
+  "artifact_scope": "project-authored files and text logs; public SEC raw data retained byte-for-byte",
+  "architecture_visual_review": "PASS: Korean labels readable, no clipping",
+  "source_logic_preserved": true,
+  "offline_replay_result_equal": true,
+  "live_HTTP_requests_this_run": 0,
+  "live_refresh": "not performed: no real SEC contact configured; DNS failed"
+}

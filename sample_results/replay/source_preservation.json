@@ -1,0 +1,14 @@
+{
+  "run_utc": "2026-11-01T02:24:24.984050+00:00",
+  "original_spike_sha256": "9683c336fe9a8882f1bd9b8d5f9be795903d396e2046bd8f3bd32cf38574456a",
+  "ported_spike_sha256": "4975efd20efd36f8a1a7f46ed1ddb566fe0b756561318521befe1ff16ec53f03",
+  "core_functions_byte_identical": true,
+  "computation_and_output_body_byte_identical": true,
+  "original_result_files_byte_identical": true,
+  "allowed_changes": [
+    "CLI paths and output directory creation",
+    "input provenance status text",
+    "argparse import"
+  ],
+  "calculation_logic_modified": false
+}

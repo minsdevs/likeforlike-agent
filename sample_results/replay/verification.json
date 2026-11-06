@@ -1,0 +1,187 @@
+{
+  "run_utc": "2026-11-01T02:22:44.520979+00:00",
+  "execution": "offline replay of supplied snapshot; no network or LLM call",
+  "snapshot_files_checked": 35,
+  "snapshot_sha256_all_match": true,
+  "exit_code": 0,
+  "full_result_json_equal": true,
+  "comparison_csv_rows_equal": true,
+  "hash_checks": [
+    {
+      "file": "NVDA_companyfacts.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "NVDA_submissions.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "NVDA_annual.htm.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "INTC_companyfacts.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "INTC_submissions.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "INTC_annual.htm.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "QCOM_companyfacts.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "QCOM_submissions.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "QCOM_annual.htm.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "AVGO_companyfacts.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "AVGO_submissions.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "AVGO_annual.htm.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "MU_companyfacts.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "MU_submissions.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "MU_annual.htm.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "AMD_companyfacts.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "AMD_submissions.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "AMD_annual.htm.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "TXN_companyfacts.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "TXN_submissions.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "TXN_annual.htm.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "ADI_companyfacts.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "ADI_submissions.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "ADI_annual.htm.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "MCHP_companyfacts.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "MCHP_submissions.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "MCHP_annual.htm.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "NXPI_companyfacts.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "NXPI_submissions.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "NXPI_annual.htm.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "AAPL_companyfacts.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "AAPL_submissions.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "MSFT_companyfacts.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "MSFT_submissions.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    },
+    {
+      "file": "frame_revenue_CY2024Q4.json.gz",
+      "bytes_match": true,
+      "sha256_match": true
+    }
+  ],
+  "PASS": true
+}

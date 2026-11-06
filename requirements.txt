@@ -1,0 +1,3 @@
+# Runtime: Python 3.10+ standard library only.
+# No pip packages, model weights, API credentials or LLM subscription are required
+# for the included offline snapshot replay.

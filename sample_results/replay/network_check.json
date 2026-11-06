@@ -1,0 +1,9 @@
+{
+  "run_utc": "2026-11-01T02:21:12.627167+00:00",
+  "target": "data.sec.gov:443",
+  "test": "DNS + TLS handshake only, no HTTP request",
+  "http_request_sent": false,
+  "network_handshake": "FAILED",
+  "error_type": "gaierror",
+  "message": "[Errno -3] Temporary failure in name resolution"
+}

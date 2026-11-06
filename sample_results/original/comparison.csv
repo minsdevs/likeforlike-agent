@@ -1,0 +1,21 @@
+symbol,metric,tag,start,end,days,unit,val,state,reason
+NVDA,Revenue,Revenues,2025-01-27,2026-01-25,364,USD,215938000000,COMPARABLE,Period/unit metadata matches reference; metric definition gate still applies
+NVDA,OperatingIncome,OperatingIncomeLoss,2025-01-27,2026-01-25,364,USD,130387000000,COMPARABLE,Period/unit metadata matches reference; metric definition gate still applies
+NVDA,EBITDA,,,2026-01-25,,,,HOLD,No standard entity-wide concept; EBITDA not inferred
+NVDA,CapEx,PaymentsToAcquireProductiveAssets,2025-01-27,2026-01-25,364,USD,6042000000,HOLD,Productive-assets concept is not assumed equal to PPE-only CapEx; scope reconciliation required
+INTC,Revenue,RevenueFromContractWithCustomerExcludingAssessedTax,2024-12-29,2025-12-27,364,USD,52853000000,HOLD,Most recent FY spans different exact calendar period
+INTC,OperatingIncome,OperatingIncomeLoss,2024-12-29,2025-12-27,364,USD,-2214000000,HOLD,Most recent FY spans different exact calendar period
+INTC,EBITDA,,,2025-12-27,,,,HOLD,No standard entity-wide concept; EBITDA not inferred
+INTC,CapEx,PaymentsToAcquirePropertyPlantAndEquipment,2024-12-29,2025-12-27,364,USD,14646000000,HOLD,Most recent FY spans different exact calendar period
+QCOM,Revenue,Revenues,2024-09-30,2025-09-28,364,USD,44284000000,HOLD,Most recent FY spans different exact calendar period
+QCOM,OperatingIncome,OperatingIncomeLoss,2024-09-30,2025-09-28,364,USD,12355000000,HOLD,Most recent FY spans different exact calendar period
+QCOM,EBITDA,,,2025-09-28,,,,HOLD,No standard entity-wide concept; EBITDA not inferred
+QCOM,CapEx,PaymentsToAcquireProductiveAssets,2024-09-30,2025-09-28,364,USD,1192000000,HOLD,Most recent FY spans different exact calendar period
+AVGO,Revenue,RevenueFromContractWithCustomerExcludingAssessedTax,2024-11-04,2025-11-02,364,USD,63887000000,HOLD,Most recent FY spans different exact calendar period
+AVGO,OperatingIncome,OperatingIncomeLoss,2024-11-04,2025-11-02,364,USD,25484000000,HOLD,Most recent FY spans different exact calendar period
+AVGO,EBITDA,,,2025-11-02,,,,HOLD,No standard entity-wide concept; EBITDA not inferred
+AVGO,CapEx,PaymentsToAcquirePropertyPlantAndEquipment,2024-11-04,2025-11-02,364,USD,623000000,HOLD,Most recent FY spans different exact calendar period
+MU,Revenue,RevenueFromContractWithCustomerExcludingAssessedTax,2025-08-29,2026-09-03,371,USD,133188000000,HOLD,Most recent FY spans different exact calendar period
+MU,OperatingIncome,OperatingIncomeLoss,2025-08-29,2026-09-03,371,USD,99340000000,HOLD,Most recent FY spans different exact calendar period
+MU,EBITDA,,,2026-09-03,,,,HOLD,No standard entity-wide concept; EBITDA not inferred
+MU,CapEx,PaymentsToAcquirePropertyPlantAndEquipment,2025-08-29,2026-09-03,371,USD,30712000000,HOLD,Most recent FY spans different exact calendar period
